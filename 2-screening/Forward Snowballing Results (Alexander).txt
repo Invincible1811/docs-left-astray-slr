@@ -1,0 +1,22 @@
+DocPrism: Multi-lingual detection of incorrectness inconsistencies between code and documentation (https://doi.org/10.1145/3832248)
+Metamon: Finding inconsistencies between program documentation and behavior using metamorphic LLM queries (https://doi.org/10.1109/LLM4Code66737.2025.00020)
+CASCADE: Detecting Inconsistencies between Code and Documentation with Automatic Test Generation (https://doi.org/10.1145/3808175)
+Identify and update test cases when production code changes: A transformer-based approach (https://doi.org/10.1109/ASE56229.2023.00165)
+Fix the tests: Augmenting LLMs to repair test cases with static collector and neural reranker (https://doi.org/10.1109/ISSRE62328.2024.00043)
+ArtifactSync: Automated Repository Synchronization through Hierarchical Change Impact Analysis (https://doi.org/10.1145/3774748.3787617)
+Supporting Automated Documentation Updates in Continuous Software Development with Large Language Models. (https://doi.org/10.5220/0013286800003928)
+Comment Consistency Detection Algorithm Based on Code Change History (https://doi.org/10.62677/IJETAA.2506137)
+Dude: A Dual-Detection Multi-Agent System for Paper-Code Discrepancy Detection (https://doi.org/10.18653/2026.emnlp-main.1017)
+A Proposed Framework for Software Redocumentation Using Distributed Data Processing Techniques and Ontology (https://doi.org/10.1007/978-981-96-7749-8_13)
+Translating Code Changes to Test Updates: An NMT-based Framework for Automated Production-Test Co-evolution (https://doi.org/10.1109/CRESS68073.2025.11452558)
+MuMuTestUp: Mutation-Based Multi-agent Test Case Update (https://doi.org/10.1145/3832217)
+
+66 Accepted Papers Before Snowballing Gave 917 Forward Snowballed Papers
+- 2 SLR Related Papers that are already included
+- 53 Papers already checked on Parsifal
+- 8 Papers that were Accepted in Backward Snowballing
+- 24 Papers that had no metadata
+- 19 Papers that were not written in English
+- 146 Papers (probably more) that were not peer-reviewed
+- 66 Papers Accepted based off of Title
+- 12 Papers Accepted based off of Title and Abstract

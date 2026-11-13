@@ -1,0 +1,75 @@
+Ref. no. in report,Title,First author,Year,Venue,DOI or URL
+4,Software Documentation Issues Unveiled,Aghajani,2019,ACM/IEEE International Conference on Software Engineering: Companion Proceedings (ICSE-Companion),10.1109/icse.2019.00122
+5,A Large-Scale Empirical Study on Code-Comment Inconsistencies,Wen,2019,2019 IEEE/ACM 27th International Conference on Program Comprehension (ICPC),10.1109/icpc.2019.00019
+6,Automatic Detection and Repair Recommendation of Directive Defects inJava API Documentation,Zhou,2020,IEEE Transactions on Software Engineering,10.1109/tse.2018.2872971
+7,Automatic Detection and Update Suggestion for Outdated API Names in Documentation,Lee,2021,IEEE Transactions on Software Engineering,10.1109/tse.2019.2901459
+8,Detecting outdated code element references in softwarerepository documentation,Tan,2024,Empirical Software Engineering,10.1007/s10664-023-10397-6
+9,"Copy, Paste, Fail: Measuring the Reliability of Executable Documentation",Kassab,2026,IEEE Reliability Magazine,10.1109/mrl.2026.3718870
+10,Deep Just-In-Time Inconsistency Detection Between Comments and SourceCode,Panthaplackel,2021,Proceedings of the AAAI Conference on Artificial Intelligence,10.1609/aaai.v35i1.16119
+21,Automating Just-In-Time Comment Updating,Liu,2020,Proceedings of the 35th IEEE/ACM International Conference on Automated Software Engineering,10.1145/3324884.3416581
+22,Data Quality Matters: A Case Study of Obsolete Comment Detection,Xu,2023,2023 IEEE/ACM 45th International Conference on Software Engineering (ICSE),10.1109/icse48619.2023.00074
+23,Analyzing APIs Documentation and Code to Detect Directive Defects,Zhou,2017,2017 IEEE/ACM 39th International Conference on Software Engineering (ICSE),10.1109/icse.2017.11
+28,Coherence of comments and method implementations: a dataset and an empirical investigation,Corazza,2016,Software Quality Journal,10.1007/s11219-016-9347-1
+29,Automatically Detecting the Up-To-Date Status of ToDo Comments in JavaPrograms,Sridhara,2016,Proceedings of the 9th India Software Engineering Conference,10.1145/2856636.2856638
+30,Detecting Fragile Comments,Ratol,2017,2017 32nd IEEE/ACM International Conference on Automated Software Engineering (ASE),10.1109/ase.2017.8115624
+31,Automatic Detection of Outdated Comments During Code Changes,Liu,2018,2018 IEEE 42nd Annual Computer Software and Applications Conference (COMPSAC),10.1109/compsac.2018.00028
+32,Word Embeddings for Comment Coherence,Cimasa,2019,Euromicro Conference on Software Engineering and Advanced Applications (SEAA),10.1109/seaa.2019.00046
+33,"9.6 Million Links in Source Code Comments: Purpose, Evolution, and Decay",Hata,2019,2019 IEEE/ACM 41st International Conference on Software Engineering (ICSE),10.1109/icse.2019.00123
+34,A framework for writing trigger-action todo comments in executable format,Nie,2019,ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE),10.1145/3338906.3338965
+35,Predicting co-changes between functionality specifications and source code in behavior driven development,Yang,2019,2019 IEEE/ACM 16th International Conference on Mining Software Repositories (MSR),10.1109/msr.2019.00080
+36,Software documentation,Aghajani,2020,ACM/IEEE International Conference on Software Engineering: Companion Proceedings (ICSE-Companion),10.1145/3377811.3380405
+37,Docable: evaluating the executability of software tutorials,Mirhosseini,2020,ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE),10.1145/3368089.3409706
+38,Learning to Update Natural Language Comments Based on Code Changes,Panthaplackel,2020,Proceedings of the conference - Association for Computational Linguistics. Meeting,10.18653/v1/2020.acl-main.168
+39,An ensemble approach to detect code comment inconsistencies using topic modeling,Rabbi,2020,SEKE 2020,https://ksiresearch.org/seke/seke20paper/paper062.pdf
+40,Detecting Code Comment Inconsistency using Siamese Recurrent Network,Rabbi,2020,Proceedings of the 28th International Conference on Program Comprehension,10.1145/3387904.3389286
+41,"Hearing the Voice of Software Practitioners on Causes, Effects, andPractices to Deal with Documentation Debt",Rios,2020,Lecture Notes in Computer Science,10.1007/978-3-030-44429-7_4
+42,Towards Detecting Inconsistent Comments in Java Source Code Automatically,Stulova,2020,2020 IEEE 20th International Working Conference on Source Code Analysis and Manipulation (SCAM),10.1109/scam51674.2020.00012
+43,Automating the Removal of Obsolete TODO Comments,Gao,2021,Proceedings of the 29th ACM Joint Meeting on European Software Engineering Conference and Symposium on the Foundations of Software Engineering,10.1145/3468264.3468553
+44,Automated Comment Update: How Far are We?,Lin,2021,2021 IEEE/ACM 29th International Conference on Program Comprehension (ICPC),10.1109/icpc52881.2021.00013
+45,′R: Towards Detecting and Understanding Code-Document Violations in Rust,Ouyang,2021,IEEE International Symposium on Software Reliability Engineering Workshops (ISSREW),10.1109/issrew53611.2021.00063
+46,On Indirectly Dependent Documentation in the Context of Code Evolution: A Study,Sondhi,2021,2021 IEEE/ACM 43rd International Conference on Software Engineering (ICSE),10.1109/icse43902.2021.00134
+47,Deep Just-In-Time Consistent Comment Update via Source Code Changes,Guo,2022,"2022 IEEE 13th International Symposium on Parallel Architectures, Algorithms and Programming (PAAP)",10.1109/paap56126.2022.10010469
+48,Generating Examples From CLI Usage: Can Transformers Help?,Moghaddam,2022,Proceedings of the 28th ACM SIGKDD Conference on Knowledge Discovery and Data Mining,10.1145/3534678.3549983
+49,HatCUP: Hybrid Analysis and Attention based Just-In-Time CommentUpdating,Zhu,2022,Proceedings of the 30th IEEE/ACM International Conference on Program Comprehension,10.1145/3524610.3527901
+50,SmartCoCo: Checking Comment-Code Inconsistency in Smart Contracts via Constraint Propagation and Binding,Hao,2023,2023 38th IEEE/ACM International Conference on Automated Software Engineering (ASE),10.1109/ase56229.2023.00142
+51,Predictive Comment Updating With Heuristics and AST-Path-Based NeuralLearning: A Two-Phase Approach,Lin,2023,IEEE Transactions on Software Engineering,10.1109/tse.2022.3185458
+52,Just-In-Time Obsolete Comment Detection and Update,Liu,2023,IEEE Transactions on Software Engineering,10.1109/tse.2021.3138909
+53,TBCUP: A Transformer-based Code Comments Updating Approach,Liu,2023,"2023 IEEE 47th Annual Computers, Software, and Applications Conference (COMPSAC)",10.1109/compsac57700.2023.00119
+54,Towards identifying and minimizing customer-facing documentation debt,Silva,2023,2023 ACM/IEEE International Conference on Technical Debt (TechDebt),10.1109/techdebt59074.2023.00015
+55,"Wait, wasn't that code here before? Detecting Outdated SoftwareDocumentation",Tan,2023,2023 IEEE International Conference on Software Maintenance and Evolution (ICSME),10.1109/icsme58846.2023.00071
+56,On the Significance of Category Prediction for Code-Comment Synchronization,Yang,2023,ACM Transactions on Software Engineering and Methodology,10.1145/3534117
+57,Identifying Solidity Smart Contract API Documentation Errors,Zhu,2023,Proceedings of the 37th IEEE/ACM International Conference on Automated Software Engineering,10.1145/3551349.3556963
+58,TG-CUP: A Transformer and GNN-Based Multi-Modal Comment Updating Method,Chen,2024,ACM Transactions on Software Engineering and Methodology,10.1145/3708474
+59,DocChecker: Bootstrapping Code Large Language Model for Detecting andResolving Code-Comment Inconsistencies,Dau,2024,Proceedings of the 18th Conference of the European Chapter of the Association for Computational Linguistics: System Demonstrations,10.18653/v1/2024.eacl-demo.20
+60,When simplicity meets effectiveness: Detecting code comments coherence with word embeddings and LSTM,Igbomezie,2024,International Conference on Evaluation and Assessment in Software Engineering (EASE),10.1145/3661167.3661187
+61,Towards Detecting Comment-Code Inconsistency in Smart Contract via Pre-Training Techniques,Liu,2024,"2024 IEEE International Conference on Security, Privacy, Anonymity in Computation and Communication and Storage (SpaCCS)",10.1109/spaccs63173.2024.00013
+62,"Capturing and Understanding the Drift Between Design, Implementation, and Documentation",Romeo,2024,Proceedings of the 32nd IEEE/ACM International Conference on Program Comprehension,10.1145/3643916.3644399
+63,Code Comment Inconsistency Detection Based on Confidence Learning,Xu,2024,IEEE Transactions on Software Engineering,10.1109/tse.2024.3358489
+64,ASKDetector: An AST-Semantic and Key Features Fusion based Code CommentMismatch Detector,Yang,2024,Proceedings of the 32nd IEEE/ACM International Conference on Program Comprehension,10.1145/3643916.3644405
+65,Leveraging Large Language Model to Assist Detecting Rust Code Comment Inconsistency,Zhang,2024,Proceedings of the 39th IEEE/ACM International Conference on Automated Software Engineering,10.1145/3691620.3695010
+66,Source Code Changes Just-in-Time Update via Code Semantics,Zhao,2024,2024 14th International Conference on Information Science and Technology (ICIST),10.1109/icist63249.2024.10805465
+67,SEOCD: Detecting obsolete code comments by fusing semantic features andexpert features,Cui,2025,Expert Systems with Applications,10.1016/j.eswa.2025.127470
+68,Exploring the Capabilities of LLMs for Code-Change-Related Tasks,Fan,2025,ACM Transactions on Software Engineering and Methodology,10.1145/3709358
+69,Adapting Installation Instructions in Rapidly Evolving SoftwareEcosystems,Gao,2025,IEEE Transactions on Software Engineering,10.1109/tse.2025.3552614
+70,Are your comments outdated? Toward automatically detecting code-commentconsistency,Huang,2025,Journal of Software: Evolution and Process,10.1002/smr.2718
+71,Can Llms Update Api Documentation?,Lee,2025,2025 IEEE International Conference on Software Maintenance and Evolution (ICSME),10.1109/icsme64153.2025.00048
+72,MS-CUP: A Multi-Source Code Comment Updating Method,Li,2025,"2025 IEEE/ACIS 29th International Conference on Software Engineering, Artificial Intelligence, Networking and Parallel/Distributed Computing (SNPD)",10.1109/snpd65828.2025.11253856
+73,CoDocBench: A Dataset for Code-Documentation Alignment in Software Maintenance,Pai,2025,International Conference on Mining Software Repositories (MSR),10.1109/msr66628.2025.00077
+74,Code Comment Inconsistency Detection and Rectification Using a Large Language Model,Rong,2025,2025 IEEE/ACM 47th International Conference on Software Engineering (ICSE),10.1109/icse55347.2025.00035
+75,Just-in-Time Detection of Outdated Comments in Software Development by Jointly Reasoning,Tan,2025,IEEE Transactions on Consumer Electronics,10.1109/tce.2025.3535632
+76,Detecting Outdated Screenshot from GUI Document,Tang,2025,ACM Transactions on Software Engineering and Methodology,10.1145/3750041
+77,Identifying Multi-parameter Constraint Errors in Python Data Science Library API Documentation,Xu,2025,Proceedings of the ACM on Software Engineering,10.1145/3728945
+78,LLMUpdater: Automatic comment synchronization via edit model guided LLMs,Yang,2025,Empirical Software Engineering,10.1007/s10664-025-10752-9
+79,Automated Inline Comment Smell Detection and Repair with Large Language Models,Çağlar,2025,2025 40th IEEE/ACM International Conference on Automated Software Engineering (ASE),10.1109/ase63991.2025.00088
+80,CupCleaner: a hybrid data cleaning approach for comment updating,Liang,2026,Science China Information Sciences,10.1007/s11432-024-4637-2
+81,Larger is Not Always Better: Leveraging Structured Code Diffs for Comment Inconsistency Detection,Nguyen,2026,"2026 IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER)",10.1109/saner67736.2026.00011
+82,We Must Have Missed This Comment: Detecting and Repairing Stale Function References in Linux Kernel Comments,Sun,2026,Proceedings of the 41st IEEE/ACM International Conference on Automated Software Engineering,10.1145/3832783.3837474
+83,When Comments Mislead: An Empirical Study of Outdated Comments in LLM-Based Code Completion,Xia,2026,Proceedings of the 41st IEEE/ACM International Conference on Automated Software Engineering,10.1145/3832783.3834359
+84,R²ComSync: improving code-comment synchronization with in-context learning and reranking,Yang,2026,Empirical Software Engineering,10.1007/s10664-025-10800-4
+85,RustC4++: Improving Rust Code-Comment Inconsistency Detection via Hybrid LLM and Static Analysis,Zhang,2026,ACM Transactions on Software Engineering and Methodology,10.1145/3800689
+86,CCISolver: End-to-End Detection and Repair of Method-Level Code-CommentInconsistency,Zhong,2026,IEEE Transactions on Software Engineering,10.1109/tse.2026.3689089
+91,ArtifactSync: Automated Repository Synchronization through Hierarchical Change Impact Analysis,Alor,2026,Proceedings of the 2026 IEEE/ACM 48th International Conference on Software Engineering (ICSE-Companion),10.1145/3774748.3787617
+92,Supporting Automated Documentation Updates in Continuous Software Development with Large Language Models,Birru,2025,Proceedings of the 20th International Conference on Evaluation of Novel Approaches to Software Engineering (ENASE),10.5220/0013286800003928
+93,CASCADE: Detecting Inconsistencies between Code and Documentation with Automatic Test Generation,Kiecker,2026,Proceedings of the ACM on Software Engineering,10.1145/3808175
+94,Metamon: Finding Inconsistencies between Program Documentation and Behavior using Metamorphic LLM Queries,Lee,2025,2025 IEEE/ACM International Workshop on Large Language Models for Code (LLM4Code),10.1109/llm4code66737.2025.00020
+95,DocPrism: Multi-lingual Detection of Incorrectness Inconsistencies between Code and Documentation,Xu,2026,Proceedings of the ACM on Software Engineering,10.1145/3832248

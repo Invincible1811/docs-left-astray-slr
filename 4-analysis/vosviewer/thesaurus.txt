@@ -1,0 +1,69 @@
+label	replace by
+ability	
+addition	
+analysis	
+approach	
+art	
+art method	
+case	
+category	
+challenge	
+component	
+corresponding code	
+corresponding comment	
+data	
+date	
+development	
+effectiveness	
+evaluation	
+evaluation result	
+example	
+experiment	
+experiment result	
+experimental result	
+extensive experiment	
+framework	
+future	
+i e	
+implementation	
+improvement	
+information	
+issue	
+lack	
+limitation	
+model	
+need	
+novel approach	
+number	
+paper	
+part	
+performance	
+practice	
+previous study	
+problem	
+research	
+researcher	
+resource	
+respect	
+sample	
+solution	
+state	
+study	
+system	
+technique	
+term	
+time	
+type	
+work	
+llm	large language model
+cci	code comment inconsistency
+inconsistent comment	code comment inconsistency
+obsolete comment	outdated comment
+code evolution	software evolution
+software developer	developer
+programmer	developer
+software maintenance	maintenance
+apis	api
+inconsistent	inconsistency
+code comprehension	program comprehension
+comprehension	program comprehension

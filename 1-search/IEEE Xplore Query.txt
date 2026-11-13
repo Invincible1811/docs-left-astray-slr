@@ -1,0 +1,10 @@
+Database: IEEE Xplore
+Where to paste: Command Search
+Set the years to 2016-2026 on the results page.
+Export: BibTeX, Citation and Abstract
+
+Search 1: comments:
+("All Metadata":"code comment*" OR "All Metadata":"inline comment*" OR "All Metadata":"code-comment" OR "All Metadata":"comment-code" OR "All Metadata":"obsolete comment*" OR "All Metadata":"outdated comment*" OR "All Metadata":"inconsistent comment*" OR "All Metadata":"comments and source code" OR "All Metadata":"comments and code" OR "All Metadata":docstring* OR "All Metadata":javadoc) AND ("All Metadata":outdated OR "All Metadata":"out-of-date" OR "All Metadata":obsolete OR "All Metadata":stale OR "All Metadata":staleness OR "All Metadata":decay* OR "All Metadata":drift* OR "All Metadata":inconsisten* OR "All Metadata":mismatch* OR "All Metadata":"co-evolution" OR "All Metadata":"comment updat*" OR "All Metadata":"documentation updat*" OR "All Metadata":"documentation smell*" OR "All Metadata":"documentation debt")
+
+Search 2: other documentation types:
+("All Metadata":"API documentation" OR "All Metadata":"API reference" OR "All Metadata":readme* OR "All Metadata":"repository documentation" OR "All Metadata":"software documentation" OR "All Metadata":eula* OR "All Metadata":"license agreement*" OR "All Metadata":"privacy polic*") AND ("All Metadata":outdated OR "All Metadata":"out-of-date" OR "All Metadata":obsolete OR "All Metadata":stale OR "All Metadata":staleness OR "All Metadata":decay* OR "All Metadata":drift* OR "All Metadata":inconsisten* OR "All Metadata":mismatch* OR "All Metadata":"co-evolution" OR "All Metadata":"comment updat*" OR "All Metadata":"documentation updat*" OR "All Metadata":"documentation smell*" OR "All Metadata":"documentation debt")

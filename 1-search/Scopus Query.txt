@@ -1,0 +1,7 @@
+Database: Scopus
+Where to paste: Advanced search
+Years, language and document type are already in the query.
+Export: BibTeX, with citation information and abstract
+
+Query:
+TITLE-ABS-KEY(("code comment*" OR "source code comment*" OR "inline comment*" OR (comment* W/3 (code OR obsolete OR outdated OR inconsisten* OR stale OR updat* OR mismatch*)) OR docstring* OR javadoc OR "API documentation" OR "API reference" OR "API doc*" OR readme* OR "repository documentation" OR "software documentation" OR eula* OR "end-user license agreement*" OR "license agreement*" OR "privacy polic*") AND (outdated OR "out-of-date" OR obsolete OR stale OR staleness OR decay* OR drift* OR inconsisten* OR mismatch* OR "co-evolution" OR "co-evolving" OR coevolution OR "comment updat*" OR "documentation updat*" OR "documentation smell*" OR "documentation debt") AND (software OR "source code" OR program* OR repositor* OR api*)) AND PUBYEAR > 2015 AND PUBYEAR < 2027 AND LANGUAGE(english) AND (DOCTYPE(ar) OR DOCTYPE(cp) OR DOCTYPE(re))

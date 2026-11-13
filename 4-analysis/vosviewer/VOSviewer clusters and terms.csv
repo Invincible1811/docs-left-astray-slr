@@ -1,0 +1,54 @@
+﻿Cluster,Term,Occurrences (studies),Links,Total link strength,Average publication year
+1,code,46,52,507,2023.1
+1,inconsistency,27,51,321,2023.6
+1,detection,18,48,217,2023.7
+1,large language model,18,50,199,2025.3
+1,quality,17,47,172,2023.1
+1,code comment inconsistency,16,47,189,2023.2
+1,consistency,12,47,137,2024.0
+1,precision,12,38,132,2023.4
+1,error,10,43,115,2023.2
+1,recall,9,38,105,2022.8
+1,semantic,9,41,112,2023.7
+1,f1 score,8,41,109,2025.2
+1,maintainability,7,40,99,2024.0
+1,open source project,7,40,76,2022.7
+1,api,6,25,53,2021.0
+1,code snippet,6,36,74,2023.3
+1,reliability,6,36,63,2025.5
+1,api documentation,5,19,39,2022.8
+2,comment,45,50,490,2022.6
+2,dataset,25,50,279,2023.0
+2,code change,24,48,287,2023.0
+2,task,21,50,220,2022.9
+2,maintenance,20,49,228,2023.1
+2,code comment,19,47,220,2023.2
+2,accuracy,17,49,192,2022.9
+2,program comprehension,15,47,174,2022.5
+2,update,15,43,138,2022.9
+2,outdated comment,12,42,158,2022.8
+2,comment update,11,33,127,2023.2
+2,software evolution,11,44,127,2022.6
+2,bug,10,46,136,2022.8
+2,baseline,8,34,96,2022.0
+2,cup,8,32,111,2022.6
+2,rule,8,37,99,2022.9
+2,evolution,7,33,60,2022.3
+2,old comment,7,32,83,2022.7
+3,developer,49,52,526,2022.7
+3,documentation,27,47,234,2023.0
+3,source code,24,50,277,2022.8
+3,tool,22,48,216,2022.6
+3,change,20,50,211,2022.0
+3,software,18,50,188,2022.4
+3,software development,17,47,168,2023.0
+3,feature,15,47,157,2021.8
+3,project,15,42,149,2023.1
+3,context,9,38,76,2023.6
+3,software documentation,9,35,77,2022.2
+3,software project,9,36,90,2021.1
+3,user,9,32,76,2022.3
+3,artifact,6,30,51,2023.0
+3,java,6,32,53,2022.3
+3,sync,6,33,63,2022.5
+3,functionality,5,30,46,2022.2
