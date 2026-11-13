@@ -1,0 +1,23 @@
+Software Documentation Issues Unveiled (https://doi.org/10.1109/icse.2019.00122)
+Learning to Update Natural Language Comments Based on Code Changes (https://doi.org/10.18653/v1/2020.acl-main.168)
+Coherence of comments and method implementations: a dataset and an empirical investigation (https://doi.org/10.1007/s11219-016-9347-1)
+Word Embeddings for Comment Coherence (https://doi.org/10.1109/seaa.2019.00046)
+A framework for writing trigger-action todo comments in executable format (https://doi.org/10.1145/3338906.3338965)
+Detecting Outdated Screenshot from GUI Document (https://doi.org/10.1145/3750041)
+Software documentation (https://doi.org/10.1145/3377811.3380405)
+TG-CUP: A Transformer and GNN-Based Multi-Modal Comment Updating Method (https://doi.org/10.1145/3708474)
+A New Dataset for Source Code Comment Coherence (https://doi.org/10.4000/books.aaccademia.1751) [excluded at full text: EC1, earlier version of an included journal study]
+CoDocBench: A Dataset for Code-Documentation Alignment in Software Maintenance (https://doi.org/10.1109/msr66628.2025.00077)
+When simplicity meets effectiveness: Detecting code comments coherence with word embeddings and LSTM (https://doi.org/10.1145/3661167.3661187)
+Docable: evaluating the executability of software tutorials (https://doi.org/10.1145/3368089.3409706)
+′R: Towards Detecting and Understanding Code-Document Violations in Rust (https://doi.org/10.1109/issrew53611.2021.00063)
+
+66 Accepted Papers Before Snowballing Gave 1,260 Backward Snowballed References
+- 25 References that had no metadata
+- 425 References published outside 2016-2026
+- 71 References already checked on Parsifal
+- 133 References that were not peer-reviewed
+- 606 References screened on title (494 excluded)
+- 112 References screened on title and abstract (99 excluded)
+- 13 Papers assessed in full text (1 excluded as an earlier version of an included study)
+- 12 Papers included

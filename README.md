@@ -14,6 +14,7 @@ The review covers 74 peer-reviewed primary studies on documentation decay publis
 2-screening
 - Blind Screening Guide used for the calibration round.
 - Calibration Results 2026-11-08.xlsx: results of the calibration round in which both researchers screened the same 50 records blind (Cohen's kappa 0.88). The individual calibration sheets are kept by the researchers and are not included.
+- Backward Snowballing Results.txt: the 13 candidates accepted on title and abstract in backward snowballing (12 included after full-text reading) and the screening counts.
 - Forward Snowballing Results (Alexander).txt: the 12 candidates accepted on title and abstract in forward snowballing and the screening counts.
 
 3-extraction
